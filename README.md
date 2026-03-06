@@ -86,4 +86,4 @@ Aplikacja webowa umożliwiająca przeglądanie galerii obrazów w podziale na ka
 
 ## 📌 Autor
 
-Projekt wykonany przez [Mateusz Biernacki]
+Projekt stworzony przez Mateusz Biernacki jako część portfolio programistycznego.
